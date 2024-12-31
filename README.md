@@ -2,7 +2,7 @@
 
 I'm **カカシ** (a.k.a. `sonusid1325` on GitHub), a passionate programmer who loves to learn and grow by rebuilding existing technologies with a twist of added features. My favorite playground? **Android development!** 🚀
 
-<video src="main.mp4" autoplay loop muted playsinline style="width: 100%; height: auto;"></video>
+<video src="main.mp4" autoplay loop muted playsinline style="width: 100%; height: auto; display: block;"></video>
 
 ---
 
