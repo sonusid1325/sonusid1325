@@ -17,7 +17,7 @@ Hello! I'm ソヌ (SONU).
   - ![Jetpack](https://img.shields.io/badge/-Jetpack-000000?style=flat&logo=android&logoColor=white)  
 
 - **Other**:
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git 🧑‍💻
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   - ![API](https://img.shields.io/badge/-RESTful%20API-00D15E?style=flat&logo=swagger&logoColor=white) 
   - ![UI/UX](https://img.shields.io/badge/-UI%2FUX%20Design-FF69B4?style=flat&logo=figma&logoColor=white) 
   - ![Testing](https://img.shields.io/badge/-Unit%20Testing-33CC33?style=flat&logo=jasmine&logoColor=white) 
