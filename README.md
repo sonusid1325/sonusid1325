@@ -1,4 +1,5 @@
 # ソヌ (SONU) - Android Developer
+![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## About Me
 Hello! I'm ソヌ (SONU).  
@@ -23,9 +24,7 @@ Hello! I'm ソヌ (SONU).
   - ![Testing](https://img.shields.io/badge/-Unit%20Testing-33CC33?style=flat&logo=jasmine&logoColor=white) 
 
 ## "Code is like humor. When you have to explain it, it’s bad."  
-– Cory House
 
-![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## Projects
 - **[Project Name]**: Description of the project and its objectives.
