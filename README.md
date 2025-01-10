@@ -32,7 +32,7 @@
 
 ## Contact
 Feel free to connect with me via:
-- **Email**: sonusid1325@gmail.com 📧
-- **Portfolio**: [sonusid](https://sonusid.me)
+# - **Email**: sonusid1325@gmail.com 📧
+# - **Portfolio**: [sonusid](https://sonusid.me)
+# - **GitHub**: [sonusid1325](https://github.com/sonusid1325) 🐙
 <!-- - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sonu) -->
-- **GitHub**: [sonusid1325](https://github.com/sonusid1325) 🐙
