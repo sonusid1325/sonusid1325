@@ -1,15 +1,29 @@
 # ソヌ (SONU) - Android Developer
 
 ## About Me
-Hello! I'm ソヌ (SONU).
-**Username**: [sonusid1325](https://github.com/sonusid1325)
+Hello! I'm ソヌ (SONU).  
+**Username**: [sonusid1325](https://github.com/sonusid1325)  
+🚀 Passionate Android Developer
 
 ## Skills
-- **Languages**: Kotlin, Java, Dart
-- **Frameworks & Tools**: Android SDK, Firebase, Jetpack
-- **Other**: Git, RESTful APIs, UI/UX Design, Unit Testing
+- **Languages**: 
+  - ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  Kotlin 
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  Java 
+  - ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)  Dart 
+  
+- **Frameworks & Tools**:
+  - ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) Android 
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2F?style=flat&logo=firebase&logoColor=white) Firebase 
+  - ![Jetpack](https://img.shields.io/badge/-Jetpack-000000?style=flat&logo=android&logoColor=white) Jetpack 
 
-## "Code is like humor. When you have to explain it, it’s bad."
+- **Other**:
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git 🧑‍💻
+  - ![API](https://img.shields.io/badge/-RESTful%20API-00D15E?style=flat&logo=swagger&logoColor=white) RESTful APIs 
+  - ![UI/UX](https://img.shields.io/badge/-UI%2FUX%20Design-FF69B4?style=flat&logo=figma&logoColor=white) UI/UX Design
+  - ![Testing](https://img.shields.io/badge/-Unit%20Testing-33CC33?style=flat&logo=jasmine&logoColor=white) Unit Testing 
+
+## "Code is like humor. When you have to explain it, it’s bad."  
+– Cory House
 
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
@@ -19,7 +33,7 @@ Hello! I'm ソヌ (SONU).
 
 ## Contact
 Feel free to connect with me via:
-- **Email**: sonusid1325@gmail.com
-- **Portfolio**: [sonusid][https"//sonusid.me]
+- **Email**: sonusid1325@gmail.com 📧
+- **Portfolio**: [sonusid](https://sonusid.me)
 <!-- - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sonu) -->
-- **GitHub**: [sonusid1325](https://github.com/sonusid1325)
+- **GitHub**: [sonusid1325](https://github.com/sonusid1325) 🐙
