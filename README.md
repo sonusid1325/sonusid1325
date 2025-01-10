@@ -27,8 +27,8 @@
 
 
 ## Projects
-- **[Project Name]**: Description of the project and its objectives.
-- **[Project Name]**: Description of the project and its objectives.
+- **[TicTacToe]**: Simple Game in Jetpack Compose.
+- **[WeatherYou]**: Weather App in Jetpack Compose
 
 # Contact
 ## Feel free to connect with me via:
