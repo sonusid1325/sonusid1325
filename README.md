@@ -1,10 +1,10 @@
 # ソヌ (SONU) - Android Developer
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-## About Me
-Hello! I'm ソヌ (SONU).  
+# About Me
+## Hello! I'm ソヌ (SONU).  
 **Username**: [sonusid1325](https://github.com/sonusid1325)  
-🚀 Passionate Android Developer
+## 🚀 Passionate Android Developer
 
 ## Skills
 - **Languages**: 
