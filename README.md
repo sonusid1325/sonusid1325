@@ -54,5 +54,3 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu) -->  
 
 ---
-
-This version uses professional icons for Email, Portfolio, and GitHub while maintaining a sleek design. Let me know if you'd like further customization! 🚀
