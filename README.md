@@ -1,7 +1,7 @@
 
 ---
 
-# 👨 ソヌ (SONU) - Android Developer  
+# ソヌ (SONU) - Android Developer  
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 
 ---
