@@ -9,7 +9,8 @@
 ## 🖐️ About Me  
 **Hello! I'm ソヌ (SONU)**, a passionate **Android Developer** with a knack for crafting intuitive and efficient apps.  
 🌟 **Username**: [sonusid1325](https://github.com/sonusid1325)  
-<iframe src="https://github.com/sponsors/sonusid1325/card" title="Sponsor sonusid1325" height="225" width="600" style="border: 0;"></iframe>
+[![Sponsor sonusid1325](https://img.shields.io/badge/sponsor-sonusid1325-blue)](https://github.com/sponsors/sonusid1325)
+
 ---
 
 ## 💻 Skills  
