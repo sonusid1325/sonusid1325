@@ -9,6 +9,7 @@ Android, Flutter, Web & Blockchain Dev | Building intuitive apps and dApps.
 ## About Me
 
 * Passionate about crafting clean and efficient applications.
+* I'm in love with creating CLI tools.
 * Experienced in Android (Jetpack Compose), Flutter, and Next.js.
 * Currently exploring Solana and Rust for blockchain development.
 
@@ -33,6 +34,9 @@ Android, Flutter, Web & Blockchain Dev | Building intuitive apps and dApps.
 
 * Rust (Learning)
 * Solana (Learning)
+
+**CLI**
+* Go Lang (Bubble Tea, Huh)
 
 **Tools:**
 
