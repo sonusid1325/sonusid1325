@@ -2,13 +2,13 @@
 ---
 
 # 👋 Hi, I’m **ソヌ (Sonu)**  
-**Android, Web & Blockchain Dev — Building beautiful apps & meaningful dApps**
-
 <p align="left">
   <a href="https://github.com/sonusid1325" target="_blank">
     <img src="https://github.com/sonusid1325.png" width="160" style="border-radius: 50%;" alt="ソヌ's GitHub Profile Photo"/>
   </a>
 </p>
+
+**Android, Web & Blockchain Dev — Building beautiful apps & meaningful dApps**
 
 ---
 
