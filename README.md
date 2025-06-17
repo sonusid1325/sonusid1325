@@ -1,75 +1,63 @@
-# 👋 Hi, I’m **ソヌ (Sonu)**  
-<p align="left">
+
+<h1 align="center">👋 Hi, I’m <strong>ソヌ (Sonu)</strong></h1>
+
+<p align="center">
   <a href="https://github.com/sonusid1325" target="_blank">
-    <img src="https://github.com/sonusid1325.png" width="160" style="border-radius: 50%;" alt="ソヌ's GitHub Profile Photo"/>
+    <img src="https://github.com/sonusid1325.png" width="160" alt="ソヌ's GitHub Profile Photo" style="border-radius: 50%;" />
   </a>
 </p>
 
-**Android, Web & Blockchain Dev — Building beautiful apps & meaningful dApps**
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200" alt="Nyan Cat Rainbow GIF"/>
-</p>
+<h3 align="center">Android, Web & Blockchain Dev — Building beautiful apps & meaningful dApps</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💡 I build clean, fast, and scalable apps that users *actually* love using.  
-- 💻 From **mobile** to **web**, from **CLI tools** to **blockchain dApps**, I enjoy crafting across stacks.
-- ⚙️ Deeply passionate about **Android (Jetpack Compose)**, **Go CLI tools**, and experimenting with **Solana + Rust**.
-- 🔭 Currently diving into **Web3** with a taste for **Solana development**.
+- ⚡ I build clean, fast, and scalable apps that users *actually* enjoy.
+- 💻 From **mobile** to **web**, from **CLI tools** to **blockchain dApps** — I’m all about crafting across stacks.
+- 🛠 Passionate about **Jetpack Compose**, **Go CLI**, and dabbling in **Solana + Rust**.
+- 🌱 Currently vibing in the **Web3** space, learning and building with **Solana**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### **📱 Mobile**
-- Kotlin, Java — Jetpack Compose
-- Flutter & Firebase
+| 🧩 Domain         | ⚙️ Tech Stack                                             |
+| ----------------- | --------------------------------------------------------- |
+| 📱 **Mobile**     | `Kotlin`, `Java` (Jetpack Compose), `Flutter`, `Firebase` |
+| 🌐 **Web**        | `Next.js`, `TypeScript`, `REST APIs`                      |
+| 🔗 **Blockchain** | `Rust` *(learning)*, `Solana` *(learning)*                |
+| 💻 **CLI Dev**    | `Go` (Bubble Tea, Huh)                                    |
+| 🧪 **Tools**      | `Git & GitHub`, `Docker`, `Supabase`, `Vercel`, `Figma`   |
 
-### **🌐 Web**
-- Next.js, TypeScript
-- RESTful APIs
-
-### **🔗 Blockchain**
-- Rust (learning)
-- Solana (learning)
-
-### **🧰 CLI Dev**
-- Go (Bubble Tea, Huh)
-
-### **🧪 Tools**
-- Git & GitHub
-- Docker
-- Supabase, Vercel, Figma
 
 ---
 
 ## 📦 Featured Projects
 
-- 🎮 **TicTacToe** – Classic game powered by Jetpack Compose  
-- 🤖 **Ollama Android Client** – Mobile interface for Ollama  
-- 🌐 **Portfolio Website** – Built with Next.js & hosted on Vercel  
+| Project                   | Tech                     | Description                        |
+| ------------------------- | ------------------------ | ---------------------------------- |
+| **TicTacToe**             | Kotlin + Jetpack Compose | A sleek classic game experience    |
+| **Ollama Android Client** | Android + API            | A mobile interface for Ollama      |
+| Woodpecker                | Python + SMTP            | An Cold Mailing tool using python  |
 
-> Check out more on my [GitHub Repos →](https://github.com/sonusid1325?tab=repositories)
+> 🚀 Explore more on my [**GitHub Repos** →](https://github.com/sonusid1325?tab=repositories)
 
 ---
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [sonusid1325@gmail.com](mailto:sonusid1325@gmail.com)  
-- 🌐 Portfolio: [sonusid.me](https://sonusid.me)  
-- 🐙 GitHub: [github.com/sonusid1325](https://github.com/sonusid1325)
+- 📧 [sonusid1325@gmail.com](mailto:sonusid1325@gmail.com)  
+- 🌐 [sonusid.me](https://sonusid.me)  
+- 🐙 [@sonusid1325](https://github.com/sonusid1325)
 
 ---
 
-> *“Code is like humor. If you have to explain it, it’s bad.”* — But hey, if it's **clean**, it speaks for itself 😎
+<p align="center"><em>“Code is like humor. If you have to explain it, it’s bad.”</em>  
+<br>But hey, if it's <strong>clean</strong>, it speaks for itself 😎</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150" alt="Nyan Cat again just for the vibes" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="180" alt="Nyan Cat flying again for the vibes" />
 </p>
 
 ---
