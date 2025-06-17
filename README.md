@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I’m **ソヌ (Sonu)**  
 <p align="left">
   <a href="https://github.com/sonusid1325" target="_blank">
