@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sonusid1325" target="_blank">
-    <img src="https://github.com/sonusid1325.png" width="160" alt="ソヌ's GitHub Profile Photo" style="border-radius: 50%;" />
+    <img src="sonusid1325.png" width="200" alt="ソヌ's GitHub Profile Photo" style="border-radius: 50%;" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 <br>But hey, if it's <strong>clean</strong>, it speaks for itself 😎</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="180" alt="Nyan Cat flying again for the vibes" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVid2Z2ZGFlMDNwN3p5bTk3dnVjNWM2eHpyaWExZDIwd2pvZzdvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="200" alt="Nyan Cat flying again for the vibes" />
 </p>
 
 ---
