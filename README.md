@@ -1,4 +1,3 @@
-
 ---
 
 # 👋 Hi, I’m **ソヌ (Sonu)**  
@@ -9,6 +8,12 @@
 </p>
 
 **Android, Web & Blockchain Dev — Building beautiful apps & meaningful dApps**
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200" alt="Nyan Cat Rainbow GIF"/>
+</p>
 
 ---
 
@@ -64,5 +69,9 @@
 ---
 
 > *“Code is like humor. If you have to explain it, it’s bad.”* — But hey, if it's **clean**, it speaks for itself 😎
+
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150" alt="Nyan Cat again just for the vibes" />
+</p>
 
 ---
