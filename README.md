@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I’m <strong>ソヌ (Sonu)</strong></h1>
+<h1 align="center"><strong>ソヌ (Sonu)</strong></h1>
 
 <p align="center">
   <a href="https://github.com/sonusid1325" target="_blank">
@@ -7,43 +7,31 @@
   </a>
 </p>
 
-<h3 align="center">Android, Web & Blockchain Dev — Building beautiful apps & meaningful dApps</h3>
 
 ---
+```rust
+// 🚀 About ソヌ (Sonu)
 
-## 🚀 About Me
+let name = "ソヌ (Sonu)";
+let title = "Android, Web & Blockchain Dev";
+let passion = ["building meaningful software", "crafting UI/UX that feels alive", "open-source"];
+let stack = [
+    "Kotlin", "Jetpack Compose", 
+    "Next.js", "Tailwind", 
+    "Node.js", "Supabase", 
+    "Solana", "Rust", 
+    "Docker", "Firebase"
+];
 
-- ⚡ I build clean, fast, and scalable apps that users *actually* enjoy.
-- 💻 From **mobile** to **web**, from **CLI tools** to **blockchain dApps** — I’m all about crafting across stacks.
-- 🛠 Passionate about **Jetpack Compose**, **Go CLI**, and dabbling in **Solana + Rust**.
-- 🌱 Currently vibing in the **Web3** space, learning and building with **Solana**.
+let vibe = "Minimal. Playful. Privacy-first.";
+let goal = "Design beautiful tools & dApps that empower people while learning deeply about system design, AI, and decentralization.";
 
+fn daily_drive() {
+    println!("👾 Building Trixii – a privacy toolkit 🐾");
+}
+```
 ---
 
-## 🛠 Tech Stack
-
-| 🧩 Domain         | ⚙️ Tech Stack                                             |
-| ----------------- | --------------------------------------------------------- |
-| 📱 **Mobile**     | `Kotlin`, `Java` (Jetpack Compose), `Flutter`, `Firebase` |
-| 🌐 **Web**        | `Next.js`, `TypeScript`, `REST APIs`                      |
-| 🔗 **Blockchain** | `Rust` *(learning)*, `Solana` *(learning)*                |
-| 💻 **CLI Dev**    | `Go` (Bubble Tea, Huh)                                    |
-| 🧪 **Tools**      | `Git & GitHub`, `Docker`, `Supabase`, `Vercel`, `Figma`   |
-
-
----
-
-## 📦 Featured Projects
-
-| Project                   | Tech                     | Description                        |
-| ------------------------- | ------------------------ | ---------------------------------- |
-| **TicTacToe**             | Kotlin + Jetpack Compose | A sleek classic game experience    |
-| **Ollama Android Client** | Android + API            | A mobile interface for Ollama      |
-| Woodpecker                | Python + SMTP            | An Cold Mailing tool using python  |
-
-> 🚀 Explore more on my [**GitHub Repos** →](https://github.com/sonusid1325?tab=repositories)
-
----
 
 ## 📫 Let’s Connect
 
