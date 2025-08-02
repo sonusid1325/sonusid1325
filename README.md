@@ -29,23 +29,9 @@ let goal = "Design beautiful tools & dApps that empower people while learning de
 fn daily_drive() {
     println!("👾 Building Trixii – a privacy toolkit 🐾");
 }
+
+fn quote(){
+	println!("Code is like humor. If you have to explain it, it’s bad.")
+}
 ```
----
-
-
-## 📫 Let’s Connect
-
-- 📧 [sonusid1325@gmail.com](mailto:sonusid1325@gmail.com)  
-- 🌐 [sonusid.me](https://sonusid.me)  
-- 🐙 [@sonusid1325](https://github.com/sonusid1325)
-
----
-
-<p align="center"><em>“Code is like humor. If you have to explain it, it’s bad.”</em>  
-<br>But hey, if it's <strong>clean</strong>, it speaks for itself 😎</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVid2Z2ZGFlMDNwN3p5bTk3dnVjNWM2eHpyaWExZDIwd2pvZzdvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="200" alt="Nyan Cat flying again for the vibes" />
-</p>
-
 ---
