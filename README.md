@@ -105,7 +105,7 @@ fn about() -> Engineer {
 <tr>
 <td width="50%">
 
-#### 🔐 Legit
+#### Legit
 Privacy-preserving identity verification protocol using Ed25519 cryptography. Presented at **Graphathon 2025** @ Graphic Era University.
 
 `Kotlin` `Ed25519` `Zero-Knowledge`
@@ -122,13 +122,8 @@ A Story Based Linux learning platform.
 </tr>
 <tr>
 <td width="50%">
-</tr>
-<tr>
-<td width="50%">
 
-
-
-#### 🦀 [woodpecker-rs](https://github.com/sonusid1325/woodpecker-rs)
+#### [woodpecker-rs](https://github.com/sonusid1325/woodpecker-rs)
 High-performance SMTP mail server written in Rust from scratch.
 
 `Rust` `SMTP` `Networking`
@@ -210,23 +205,13 @@ Music player for Android with a modern Jetpack Compose UI.
 </tr>
 </table>
 
-</table>
-
 > **[→ View all repositories](https://github.com/sonusid1325?tab=repositories)**
 
 ---
 
-## 📊 Stats
+## Stats
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonusid1325&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sonusid1325&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" />
-
-</div>
+> commits aren't contributions. working code is.
 
 ---
 
