@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" fill="none">
+  <style>
+    .terminal {
+      font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', Monaco, Consolas, monospace;
+      font-size: 13px;
+      fill: #c9d1d9;
+    }
+    .window {
+      fill: #0d1117;
+      stroke: #30363d;
+      stroke-width: 1.5;
+      rx: 8;
+    }
+    .header {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1.5;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      fill: #8b949e;
+      text-anchor: middle;
+    }
+    .prompt { fill: #58a6ff; font-weight: bold; }
+    .cmd { fill: #e6edf3; }
+    .cyan { fill: #39c5cf; }
+    .green { fill: #3fb950; }
+    .purple { fill: #bc8cff; }
+    .gray { fill: #8b949e; }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    .cursor {
+      fill: #58a6ff;
+      animation: blink 1s step-end infinite;
+    }
+  </style>
+
+  <!-- Terminal Window Background -->
+  <rect x="1" y="1" width="598" height="338" rx="8" class="window" />
+  
+  <!-- Header Bar -->
+  <path d="M1 9 C 1 4.5, 4.5 1, 9 1 L 591 1 C 595.5 1, 599 4.5, 599 9 L 599 30 L 1 30 Z" class="header" />
+  <line x1="1" y1="30" x2="599" y2="30" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Window Dots (Red, Yellow, Green) -->
+  <circle cx="18" cy="15" r="6" fill="#ff5f56" />
+  <circle cx="38" cy="15" r="6" fill="#ffbd2e" />
+  <circle cx="58" cy="15" r="6" fill="#27c93f" />
+
+  <!-- Title Text -->
+  <text x="300" y="20" class="title">spideydotjs@arch:~</text>
+
+  <!-- Terminal Content -->
+  <g class="terminal" transform="translate(25, 55)">
+    <!-- Prompt Line -->
+    <text x="0" y="0">
+      <tspan class="prompt">spideydotjs@arch</tspan><tspan class="gray">:</tspan><tspan class="prompt">~</tspan><tspan class="gray">$</tspan>
+      <tspan class="cmd"> fastfetch</tspan>
+    </text>
+
+    <!-- Logo and Info Columns -->
+    <g transform="translate(0, 20)">
+      <!-- Left Column: ASCII Art -->
+      <g class="cyan" font-weight="bold">
+        <text x="0" y="20">      /\</text>
+        <text x="0" y="40">     /  \</text>
+        <text x="0" y="60">    /\   \</text>
+        <text x="0" y="80">   /  __  \</text>
+        <text x="0" y="100">  /\  (  ) \</text>
+        <text x="0" y="120"> /  \  \/  /</text>
+        <text x="0" y="140">/____\____/</text>
+      </g>
+
+      <!-- Right Column: Info -->
+      <g transform="translate(130, 0)">
+        <text x="0" y="20" class="green" font-weight="bold">Firoj Siddiquie (ソヌ)</text>
+        <text x="0" y="30" class="gray">---------------------------</text>
+        
+        <text x="0" y="55"><tspan class="purple" font-weight="bold">OS</tspan><tspan class="gray">:</tspan> Arch Linux + Hyprland (btw)</text>
+        <text x="0" y="75"><tspan class="purple" font-weight="bold">Role</tspan><tspan class="gray">:</tspan> Platform &amp; Security Engineer</text>
+        <text x="0" y="95"><tspan class="purple" font-weight="bold">Loc</tspan><tspan class="gray">:</tspan> Haryana, India</text>
+        <text x="0" y="115"><tspan class="purple" font-weight="bold">Lang</tspan><tspan class="gray">:</tspan> Go, Rust, Kotlin, TS, Java, Python</text>
+        <text x="0" y="135"><tspan class="purple" font-weight="bold">Infra</tspan><tspan class="gray">:</tspan> Kubernetes, Kafka, Docker, gRPC, eBPF, Redis</text>
+        <text x="0" y="155"><tspan class="purple" font-weight="bold">Sec</tspan><tspan class="gray">:</tspan> JA3/JA4, eBPF, ONNX inference, CTF</text>
+        <text x="0" y="175"><tspan class="purple" font-weight="bold">Focus</tspan><tspan class="gray">:</tspan> Resilient Systems, Threat Detection</text>
+      </g>
+    </g>
+
+    <!-- Bottom Prompt -->
+    <text x="0" y="235">
+      <tspan class="prompt">spideydotjs@arch</tspan><tspan class="gray">:</tspan><tspan class="prompt">~</tspan><tspan class="gray">$</tspan><tspan class="cmd"> </tspan><tspan class="cursor">█</tspan>
+    </text>
+  </g>
+</svg>
