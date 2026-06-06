@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m <strong>ソヌ (Sonu)</strong></h1>
 
 <p align="center">
-  <a href="https://github.com/sonusid1325" target="_blank">
+  <a href="https://github.com/spideydotjs" target="_blank">
     <img src="sonusid1325.png" width="200" alt="ソヌ's GitHub Profile Photo" style="border-radius: 50%;" />
   </a>
 </p>
@@ -43,7 +43,7 @@
 | Deno Discord Bot          | Deno + Ts + gemini       | Gemini powered AI bot for discord |
 
 
-> 🚀 Explore more on my [**GitHub Repos** →](https://github.com/sonusid1325?tab=repositories)
+> 🚀 Explore more on my [**GitHub Repos** →](https://github.com/spideydotjs?tab=repositories)
 
 ---
 
@@ -51,7 +51,7 @@
 
 - 📧 [sonusid1325@gmail.com](mailto:sonusid1325@gmail.com)  
 - 🌐 [sonusid.me](https://sonusid.me)  
-- 🐙 [@sonusid1325](https://github.com/sonusid1325)
+- 🐙 [@spideydotjs](https://github.com/spideydotjs)
 
 ---
 
